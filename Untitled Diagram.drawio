@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T10:49:22.074Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WR5xeHKRDxt0e5qkzvBn" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T10:50:25.234Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="y5O9LwjHojj2IH_-fiyW" version="24.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,13 +72,8 @@
         <mxCell id="mt0ydTyAhQ6fFZlKS6rV-15" value="Editor Decision" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="357.5" y="410" width="145" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="mt0ydTyAhQ6fFZlKS6rV-19" value="Create New Draft" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mt0ydTyAhQ6fFZlKS6rV-17" target="mt0ydTyAhQ6fFZlKS6rV-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="95" y="610" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="mt0ydTyAhQ6fFZlKS6rV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mt0ydTyAhQ6fFZlKS6rV-17" target="mt0ydTyAhQ6fFZlKS6rV-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mt0ydTyAhQ6fFZlKS6rV-17" value="Published" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="355" y="570" width="150" height="80" as="geometry" />
